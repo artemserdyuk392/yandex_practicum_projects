@@ -8,7 +8,7 @@
 ## Навыки и инструменты
 **Теги: Matplotlib,Pandas,Python,визуализация данных,исследовательский анализ данных,предобработка данных**
 
-<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/nltk-black?style=flat-square"/><img src="https://img.shields.io/badge/tf-idf-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/>
 ## Сферы деятельности:
 Интернет-сервисы, Площадки объявлений
 ## Основные пункты исследования:
