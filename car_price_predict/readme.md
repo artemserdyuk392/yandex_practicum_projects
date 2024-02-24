@@ -4,7 +4,7 @@
 ## Навыки и инструменты
 **Теги: Python, Pandas, LightGBM**
 
-<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/nltk-black?style=flat-square"/><img src="https://img.shields.io/badge/tf-idf-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/>
 ## Сферы деятельности:
 Интернет-сервисы, Интернет-магазины, Бизнес
 ## Основные пункты исследования:
